@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://amanksingh.co.in">
-    <img src="https://amanksingh.co.in/brand/aks-logo-128.png" width="86" height="86" alt="Aman Singh logo" />
+    <img src="https://amanksingh.co.in/brand/aks-logo-128.png" width="86" height="86" alt="Aman Kumar Singh logo" />
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Aman Singh</h1>
+<h1 align="center">Hi, I'm Aman Kumar Singh</h1>
 
 <p align="center">
   Full-stack developer focused on SaaS products, automation, and AI-assisted engineering.
@@ -55,15 +55,6 @@
 - Building reliable product systems with strong contracts between UI, API, database, and infrastructure.
 - Shipping practical AI features with clear fallback behavior, quotas, and admin controls.
 - Improving code quality through modular architecture, focused tests, and simpler developer workflows.
-
-### GitHub Snapshot
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aksingh-jft&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Aman's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksingh-jft&layout=compact&hide_border=true&theme=github_dark" alt="Aman's top languages" />
-</p>
-
----
 
 <p align="center">
   Open to building useful products, improving existing systems, and turning rough ideas into shipped software.
