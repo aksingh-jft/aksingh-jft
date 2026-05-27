@@ -11,6 +11,12 @@
   <a href="https://amanksingh.co.in">
     <img src="https://img.shields.io/badge/Website-amanksingh.co.in-0f172a?style=flat-square" alt="Website" />
   </a>
+  <a href="https://amanksingh.com">
+    <img src="https://img.shields.io/badge/Website-amanksingh.com-1d4ed8?style=flat-square" alt="Website" />
+  </a>
+  <a href="https://amanksingh.in">
+    <img src="https://img.shields.io/badge/Website-amanksingh.in-047857?style=flat-square" alt="Website" />
+  </a>
   <a href="https://github.com/aksingh-jft?tab=followers">
     <img src="https://img.shields.io/github/followers/aksingh-jft?label=Followers&style=flat-square&color=111827" alt="GitHub followers" />
   </a>
