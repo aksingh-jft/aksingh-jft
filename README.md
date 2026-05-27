@@ -1,10 +1,58 @@
-- 👋 Hi, I’m @aksingh-jft
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi, I'm Aman Singh</h1>
 
-<!---
-aksingh-jft/aksingh-jft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  Full-stack developer focused on SaaS products, automation, and AI-assisted engineering.
+</p>
+
+<p align="center">
+  <a href="https://github.com/aksingh-jft">
+    <img src="https://komarev.com/ghpvc/?username=aksingh-jft&style=flat-square&color=2563eb" alt="Profile views" />
+  </a>
+  <a href="https://amanksingh.co.in">
+    <img src="https://img.shields.io/badge/Website-amanksingh.co.in-0f172a?style=flat-square" alt="Website" />
+  </a>
+  <a href="https://github.com/aksingh-jft?tab=followers">
+    <img src="https://img.shields.io/github/followers/aksingh-jft?label=Followers&style=flat-square&color=111827" alt="GitHub followers" />
+  </a>
+</p>
+
+---
+
+### What I Work On
+
+- Product-grade web apps with clean frontend and backend boundaries.
+- Multi-tenant SaaS platforms, admin systems, RBAC, billing, audit logs, and workflows.
+- AI features that connect to real product limits, policies, and user flows.
+- Developer tooling, automation, tests, and deployment pipelines.
+
+### Tech I Use
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+### Current Focus
+
+- Building reliable product systems with strong contracts between UI, API, database, and infrastructure.
+- Shipping practical AI features with clear fallback behavior, quotas, and admin controls.
+- Improving code quality through modular architecture, focused tests, and simpler developer workflows.
+
+### GitHub Snapshot
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aksingh-jft&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Aman's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksingh-jft&layout=compact&hide_border=true&theme=github_dark" alt="Aman's top languages" />
+</p>
+
+---
+
+<p align="center">
+  Open to building useful products, improving existing systems, and turning rough ideas into shipped software.
+</p>
