@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://amanksingh.co.in">
-    <img src="https://amanksingh.co.in/brand/aks-logo-128.png" width="86" height="86" alt="Aman Kumar Singh logo" />
-  </a>
-</p>
 
 <h1 align="center">Hi, I'm Aman Kumar Singh</h1>
 
@@ -14,14 +9,8 @@
   <a href="https://github.com/aksingh-jft">
     <img src="https://komarev.com/ghpvc/?username=aksingh-jft&style=flat-square&color=2563eb" alt="Profile views" />
   </a>
-  <a href="https://amanksingh.co.in">
-    <img src="https://img.shields.io/badge/Website-amanksingh.co.in-0f172a?style=flat-square" alt="Website" />
-  </a>
   <a href="https://amanksingh.com">
     <img src="https://img.shields.io/badge/Website-amanksingh.com-1d4ed8?style=flat-square" alt="Website" />
-  </a>
-  <a href="https://amanksingh.in">
-    <img src="https://img.shields.io/badge/Website-amanksingh.in-047857?style=flat-square" alt="Website" />
   </a>
   <a href="https://github.com/aksingh-jft?tab=followers">
     <img src="https://img.shields.io/github/followers/aksingh-jft?label=Followers&style=flat-square&color=111827" alt="GitHub followers" />
